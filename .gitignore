@@ -1,0 +1,8 @@
+*.pyc
+*~
+.DS_Store
+__pycache
+.env
+.flaskenv
+.idea
+*.db
